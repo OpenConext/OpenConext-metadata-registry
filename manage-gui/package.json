@@ -31,7 +31,7 @@
     "react-tooltip": "^3.10.0",
     "scroll-into-view": "^1.8.2",
     "spin.js": "^2.3.2",
-    "urijs": "^1.19.6"
+    "urijs": "^1.19.7"
   },
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",
